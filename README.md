@@ -24,8 +24,8 @@ The sentiment analysis task yielded the following results:
 
 - Accuracy: 72%
 - Precision: 85.3%
-- Recall: [mention recall score]
-- F1-score: [mention F1-score]
+- Recall: 62.74%
+- F1-score: 72.3%
 
 The analysis has provided valuable insights into customer sentiment towards restaurants. The Naive Bayes classifier has shown promising performance in accurately classifying sentiment in customer feedback.
 
