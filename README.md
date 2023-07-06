@@ -1,7 +1,6 @@
 
 ## Sentiment Analysis of Restaurant Feedback
 
-![Sentiment Analysis](sentiment_analysis.jpg)
 
 This repository contains the code and documentation for sentiment analysis of restaurant feedback. The goal of this project is to analyze customer reviews and determine the sentiment associated with each feedback, whether it is positive, negative, or neutral.
 
