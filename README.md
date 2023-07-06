@@ -1,8 +1,8 @@
-# Sentiment-Analysis-Internship-tasks
+## Sentiment-Analysis-Internship-tasks
 Certainly! Here's a sample README.md file for your sentiment analysis project in the specified format:
 
 ```markdown
-# Sentiment Analysis of Restaurant Feedback
+## Sentiment Analysis of Restaurant Feedback
 
 ![Sentiment Analysis](sentiment_analysis.jpg)
 
