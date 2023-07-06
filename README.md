@@ -23,7 +23,7 @@ In this project, we have implemented the Naive Bayes classifier using the scikit
 The sentiment analysis task yielded the following results:
 
 - Accuracy: 72%
-- Precision: [mention precision score]
+- Precision: 85.3%
 - Recall: [mention recall score]
 - F1-score: [mention F1-score]
 
