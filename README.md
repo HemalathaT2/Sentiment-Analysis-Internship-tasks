@@ -35,7 +35,7 @@ To use the sentiment analysis model and reproduce the results, follow these step
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/repo-name.git
+   git clone https://github.com/HemalathaT2/Sentiment-Analysis-Internship-tasks.git
    ```
 
 2. Install the required dependencies mentioned in the `requirements.txt` file.
