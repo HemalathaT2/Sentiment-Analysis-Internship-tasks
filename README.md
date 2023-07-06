@@ -10,7 +10,7 @@ The objective of this project is to perform sentiment analysis on restaurant fee
 
 ## Dataset
 
-The dataset used for this project consists of customer feedback collected from various restaurants. It contains a collection of text reviews along with corresponding sentiment labels. The dataset has been preprocessed to remove any irrelevant information and is divided into a training set and a test set for model evaluation.
+The dataset used for this project consists of customer feedback collected from various restaurants was provided to me by Radix Educational Trust. It contains a collection of text reviews along with corresponding sentiment labels. The dataset has been preprocessed to remove any irrelevant information and is divided into a training set and a test set for model evaluation.
 
 ## Naive Bayes Classifier
 
